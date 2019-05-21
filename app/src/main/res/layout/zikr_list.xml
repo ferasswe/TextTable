@@ -18,6 +18,8 @@
             tools:context="com.shady_selim.azkar.MainActivity"
             tools:listitem="@layout/activity_main" />
 
+
+
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
         android:layout_width="match_parent"

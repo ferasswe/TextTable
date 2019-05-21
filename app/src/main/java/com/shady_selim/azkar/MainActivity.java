@@ -41,6 +41,7 @@ import butterknife.BindString;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+
 public class MainActivity extends AppCompatActivity {
     private Menu menu;
     private List<AzkarClass> azkarList;
